@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(9, 2, 65, 0.6);
+    color: white;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    background-color: skyblue;
+    color: black;
+    text-transform: capitalize;
+    border-radius: 20px;
+    width: 105px;
+    height: 45px;
+}
