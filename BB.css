@@ -1,5 +1,6 @@
 body{
     background-color: rgba(9, 2, 65, 0.6);
+    background-image: url('breakingbad.jpg');
     color: white;
     font-size: 2em;
     display: flex;
@@ -14,4 +15,8 @@ button{
     border-radius: 20px;
     width: 105px;
     height: 45px;
+}
+.quote{
+    height: 80%;
+    width: 80%;
 }
